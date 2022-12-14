@@ -1,0 +1,1 @@
+aws_s3_bucket = "devops-auto-tfvar-bucket"
